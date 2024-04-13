@@ -9,7 +9,7 @@
   "env": {
     "OWNER_NAME": {
       "description": "Name for Bot Owner",    
-      "value":qouphi_example",
+      "value":"qouphi_example",
       "required" :true
     },   
      
